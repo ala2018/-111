@@ -1,0 +1,5 @@
+root@localhost ~]# yum -y install git  
+[root@localhost ~]# git  
+<br style="color:rgb(68,68,68);font-family:Tahoma, 'Microsoft Yahei', Simsun;font-size:14.399999618530273px;line-height:16.799999237060547px;">  
+ssh-keygen -t rsa -C "953960645@qq.com"  
+\No newline at end of file
